@@ -1,2 +1,3 @@
 # cavetribes.github.io
-site
+my site's files, media, etc.
+what will i do?
